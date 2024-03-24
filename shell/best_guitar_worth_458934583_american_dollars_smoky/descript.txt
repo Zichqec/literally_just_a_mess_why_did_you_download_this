@@ -1,0 +1,9 @@
+charset,UTF-8
+type,shell
+
+name,best guitar worth 458934583 american dollars
+craftman,SmokyCinnamonRoll
+craftmanw,SmokyCinnamonRoll
+craftmanurl,https://smokycinnamon.github.io/indifferentsorrel/
+
+seriko.alignmenttodesktop,free

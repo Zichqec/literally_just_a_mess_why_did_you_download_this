@@ -1,0 +1,8 @@
+surface0
+{
+	animation0.interval,always
+	animation0.pattern0,replace,0,0,0,0
+	animation0.pattern1,replace,0,100,0,0
+	animation0.pattern2,replace,1,100,0,0
+	animation0.pattern3,replace,2,100,0,0
+}

@@ -1,0 +1,10 @@
+charset,UTF-8
+type,shell
+
+name,Ghost
+craftman,Zlounv pg Rwfpgan coc al Zlounv dvg by Grrbypi oau pg Lxgjih
+craftmanw,Zlounv pg Rwfpgan coc al Zlounv dvg by Grrbypi oau pg Lxgjih
+craftmanurl,
+
+seriko.alignmenttodesktop,free
+seriko.use_self_alpha,1
