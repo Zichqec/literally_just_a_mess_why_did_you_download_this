@@ -5,9 +5,9 @@ type,ghost
 
 shiori,yaya.dll
 
-craftman,
-craftmanw,
-craftmanurl,
+craftman,Mess Crew
+craftmanw,Mess Crew (see readme)
+craftmanurl,https://github.com/Zichqec/literally_just_a_mess_why_did_you_download_this/
 
 sakura.name,BEHOLD
 kero.name,-
