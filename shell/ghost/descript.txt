@@ -2,9 +2,9 @@ charset,UTF-8
 type,shell
 
 name,Ghost
-craftman,Zlounv pg Rwfpgan coc al Zlounv dvg by Grrbypi oau pg Lxgjih
-craftmanw,Zlounv pg Rwfpgan coc al Zlounv dvg by Grrbypi oau pg Lxgjih
-craftmanurl,
+craftman,Teacup is Zdzisiu who is Teacup who is Zdzisiu who is Teacup
+craftmanw,Teacup is Zdzisiu who is Teacup who is Zdzisiu who is Teacup
+craftmanurl,https://zdzisiu.github.io/Cemetery/
 
 seriko.alignmenttodesktop,free
 seriko.use_self_alpha,1
