@@ -1,0 +1,10 @@
+charset,UTF-8
+type,shell
+
+name,3 and a half leaf clover
+craftman,Clover
+craftmanw,☘
+craftmanurl,https://koguri3108.tumblr.com/
+
+seriko.alignmenttodesktop,free
+seriko.use_self_alpha,1
