@@ -1,0 +1,5 @@
+charset,UTF-8
+type,ghost
+
+name,Literally just a mess why did you download this
+directory,literally_just_a_mess_why_did_you_download_this
